@@ -1444,7 +1444,15 @@ let cards = [
 	      imageLink: "./Art/glowing-text/glowing_text_gif.gif",
 	      author: "Rahulkumar Jha",
 	      githubLink: "https://github.com/Rahul240499"
-     }
+	 },
+	 {
+		artName: "Talking Worm",
+		pageLink: "./Art/oluwafemi/index.html",
+		imageLink: "./Art/oluwafemi/worm.gif",
+		author: "oluwafemi",
+		githubLink: "https://github.com/dapriest01"
+	  }
+
 ];
 
 // +--------------------------------------------------------------------------------+
